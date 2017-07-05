@@ -49,10 +49,10 @@
             </objects>
             <point key="canvasLocation" x="972" y="37.331334332833585"/>
         </scene>
-        <!--View Controller-->
+        <!--Definition View Controller-->
         <scene sceneID="hjt-Rn-5HM">
             <objects>
-                <viewController id="Em5-7F-Srh" sceneMemberID="viewController">
+                <viewController id="Em5-7F-Srh" customClass="DefinitionViewController" customModule="Emoji_Dictionary" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="PHq-1s-d0A"/>
                         <viewControllerLayoutGuide type="bottom" id="FwU-4W-soE"/>
