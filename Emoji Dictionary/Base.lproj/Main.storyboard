@@ -105,6 +105,9 @@
                             <constraint firstItem="R7U-Mv-wvl" firstAttribute="top" secondItem="V5w-R9-iAT" secondAttribute="bottom" constant="75.5" id="y9s-Jh-RSN"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="emojiLabel" destination="V5w-R9-iAT" id="RXT-Xc-xCU"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="BM2-1t-pdq" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
