@@ -106,6 +106,7 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="definitionLabel" destination="R7U-Mv-wvl" id="S0E-rh-gcy"/>
                         <outlet property="emojiLabel" destination="V5w-R9-iAT" id="RXT-Xc-xCU"/>
                     </connections>
                 </viewController>
